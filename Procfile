@@ -1,1 +1,1 @@
-web: gunicorn ret_calc:server
+web: gunicorn main:server
