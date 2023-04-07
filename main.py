@@ -9,7 +9,8 @@ from dash import html
 from dash.dependencies import Input, Output, State, ALL, MATCH
 import dash_bootstrap_components as dbc
 
-from server import app
+from server import app, server
+
 import layouts, constants, alerts
 import helper_functions as hf
 
