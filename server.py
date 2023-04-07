@@ -8,7 +8,7 @@ app = dash.Dash(
     compress=True,
 )
 app.config.suppress_callback_exceptions = True
-app.title = 'data_gen'
+app.title = 'savings_calc'
 
 server = app.server
 
