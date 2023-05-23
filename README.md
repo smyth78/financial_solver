@@ -2,6 +2,8 @@
 
 This is a Dash application that provides allows the user to solve financial questions. The app will solve sophisticated questions like 'If I have an initial balance of $25k and I want to have $500k in 10 years time with a rate of 7% pa. Then how much money should I save per month.'
 
+The app ca be found live on this link: https://fathomless-forest-48148.herokuapp.com/
+
 ## Installation
 
 1. Clone the repository:
